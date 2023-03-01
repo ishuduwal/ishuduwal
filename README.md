@@ -1,4 +1,4 @@
-![finalshort](https://user-images.githubusercontent.com/115239975/222170534-97d39e91-5a83-41c8-9121-c4fbc08abd20.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/115239975/222175336-23c4a902-f790-4525-9b92-93e6b213e5ed.gif)
 <h2 >Hi there 👋</h2>
 <p>I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who is currently pursuing degree in <i>BCA(Bachelor in Computer Application).</i></p>
 <h2>Skills:</h2>
