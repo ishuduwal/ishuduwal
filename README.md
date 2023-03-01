@@ -2,8 +2,8 @@
 <h2 align="center">Hi there 👋</h2>
 I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who is currently pursuing degree in <i>BCA(Bachelor in Computer Application).</i> I really like learning languages and frameworks like: <b>Javascript,React,Css,Tailwind,Html.<b>
 <h2 align="left">Languages:</h2>
-<a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="img" height="40" width="40"></a>
-<a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="img" height="40" width="40"></a>
+<a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="img" height="50" width="50"></a>
+<a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="img" height="50" width="50"></a>
 <a href="#"><img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="img" height="40" width="40"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="img" height="40" width="40"></a>
 <a href="#"><img src="https://img.icons8.com/color/512/c-programming.png" alt="img" height="40" width="40"></a>
