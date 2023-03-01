@@ -4,3 +4,6 @@ I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who i
 <h2 align="left">Languages:</h2>
 <a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="img" height="50" width="50"></a>
 <a href="#"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="img" height="50" width="50"></a>
+<a href="#"><img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="img" height="50" width="50"></a>
+             
+   
