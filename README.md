@@ -1,4 +1,4 @@
-<img align="center" alt="gif" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300">
+<p align="center"><img alt="gif" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300"></p>
 ### Hi there 👋<br>
 I am **Ishu Duwal** from Nepal.I am a passionate beginner Web developer who is currently pursuing my degree in *BCA(Bachelor in Computer Application).* I really like learning languages and frameworks like: **Javascript,React,Css,Tailwind,Html.**
 <!--
