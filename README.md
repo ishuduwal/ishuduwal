@@ -3,6 +3,6 @@
 <p>I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who is currently pursuing degree in <i>BCA(Bachelor in Computer Application).</i> I really like learning languages and frameworks like: <b>Javascript,React,Css,Tailwind,Html.<b></p>
 <h2>Working on:</h2>
 <p>As there are always many things to learn, I am focusing more on javascript and css frameworks. I am trying to be more consistent in coding everyday.</p>   
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishuduwal)](https://github.com/anuraghazra/github-readme-stats)
 
    
