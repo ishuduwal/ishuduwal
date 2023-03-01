@@ -1,4 +1,4 @@
-<p align="center"><img alt="gif" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" width="300"></p>
+<p align="center"><img alt="gif" src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/115239975/222081588-e4b2fb2f-4935-42b6-bde2-f7621cdc3942.gif)"></p>
 <h2 >Hi there 👋</h2>
 <p>I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who is currently pursuing degree in <i>BCA(Bachelor in Computer Application).</i></p>
 <h2>Skills:</h2>
