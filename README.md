@@ -10,5 +10,5 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30"</a>  
 <h2>Working on:</h2>
 <p>As there are always many things to learn, I am focusing more on javascript and css frameworks. I am trying to be more consistent in coding everyday.</p><br> 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishuduwal"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ishuduwal&show_icons=true&theme=graywhite"></p>
 
