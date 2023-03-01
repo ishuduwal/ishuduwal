@@ -1,5 +1,4 @@
-![Alt Text](![image]([https://user-images.githubusercontent.com/115239975/222045072-b384dcf8-a427-46dc-8a47-e36f14752e12.png](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)))
-
+<img align="center" alt="gif" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### Hi there 👋
 I am **Ishu Duwal** from Nepal.I am a passionate beginner Web developer who is currently pursuing my degree in *BCA(Bachelor in Computer Application).* I really like learning languages and frameworks like: **Javascript,React,Css,Tailwind,Html.**
 <!--
