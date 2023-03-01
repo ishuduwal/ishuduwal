@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am **Ishu Duwal** from Nepal.I am a passionate beginner Web developer who is currently pursuing my degree in *BCA(Bachelor in Computer Application).* I really like learning languages and frameworks like: **Javascript,React,Css,Tailwind,Html.**
 <!--
 **ishuduwal/ishuduwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
