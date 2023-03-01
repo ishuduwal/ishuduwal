@@ -8,6 +8,6 @@
 <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" width="30"</a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="30"</a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30"</a> 
-<a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" width="30"</a>
+<a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" width="30"</a><br>
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
 
