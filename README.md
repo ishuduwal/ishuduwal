@@ -2,4 +2,4 @@
 <h2 align="center">Hi there 👋</h2>
 I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who is currently pursuing degree in <i>BCA(Bachelor in Computer Application).</i> I really like learning languages and frameworks like: <b>Javascript,React,Css,Tailwind,Html.<b>
 <h2 align="left">Languages:</h2>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<a href="#"> <img src="https://img.shields.io/badge/HTML5-E34F26? alt="html5" /> </a>
