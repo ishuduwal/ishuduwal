@@ -7,5 +7,5 @@ I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who i
 <a href="#"><img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="img" height="50" width="50"></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="img" height="50" width="50"></a>
 <a href="#"><img src="https://img.icons8.com/color/512/c-programming.png" alt="img" height="50" width="50"></a>
-<a href="#"><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="img" height="50" width="50"></a>
+<a href="#"><img src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" alt="img" height="50" width="50"></a>
    
