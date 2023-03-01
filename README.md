@@ -1,4 +1,4 @@
-<p>[ezgif com-gif-maker](https://user-images.githubusercontent.com/115239975/222082536-f44fd770-3cd6-4fc1-8a18-016fcbb73042.gif)</p>
+![GitHub Readme Profile Banner copy](![ezgif com-gif-maker](https://user-images.githubusercontent.com/115239975/222083155-86eaea4d-4f94-4c43-8b49-a8eb7d98d68b.gif))
 <h2 >Hi there 👋</h2>
 <p>I am <b>Ishu Duwal</b> from Nepal.I am a passionate beginner Web developer who is currently pursuing degree in <i>BCA(Bachelor in Computer Application).</i></p>
 <h2>Skills:</h2>
