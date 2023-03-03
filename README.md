@@ -19,11 +19,11 @@
        <h2 align="center">Twitter home clone</h2>
        <div align="center">
          <a href="https://ishuduwal.github.io/twitterclone/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222655657-78ea36f7-a5af-4646-add3-25d4c1f6df82.jpg" width="400" alt="Twitter home clone"></a>
-        </td width="50%">
+        </td>
+      <td width="50%">
        <h2 align="center">Twitter home clone</h2>
        <div align="center">
          <a href="https://ishuduwal.github.io/twitterclone/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222655657-78ea36f7-a5af-4646-add3-25d4c1f6df82.jpg" width="400" alt="Twitter home clone"></a>
-      <td>
     </td>
  </table>
                                                                                    
