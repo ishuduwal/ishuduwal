@@ -15,8 +15,10 @@
 <table>
   <tr>
     <td width="50%">
+      <div>
       <h2>twitter homeclone</h2>
       <a href="https://ishuduwal.github.io/twitterclone/#" target="_blank"><img src="![image](https://user-images.githubusercontent.com/115239975/222620808-eeb5a0a2-2992-4996-a201-e05623b63ee6.png)" width="400" alt="Twitter home clone"></a>
+        </div>
     </td>
   </tr>
   </table>
