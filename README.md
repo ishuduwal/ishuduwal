@@ -32,7 +32,7 @@
      <td width="50%">
        <h2 align="center">Hamro Patro home clone</h2>
        <div align="center">
-         <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222657853-1901c0b8-c66d-43ed-a12a-1613fae9ba49.jpg" width="400" alt="Hamro Patro home clone"></a>
+         <a href="https://ishuduwal.github.io/portfolio-demo/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222657853-1901c0b8-c66d-43ed-a12a-1613fae9ba49.jpg" width="400" alt="Hamro Patro home clone"></a>
         <p><b>Works for desktop only</b></p>
         </td>
       <td width="50%">
