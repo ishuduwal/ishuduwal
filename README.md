@@ -12,6 +12,21 @@
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
 <h2>Projects</h2>
 <br>
-<a href="https://ishuduwal.github.io/twitterclone/"><img src="https://user-images.githubusercontent.com/115239975/222651168-02b86f99-ff7d-4d0e-9685-542d76977ad0.png
-" width="400"></a>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Super Sticky Notes App</h3>
+<div align="center">
+<a href=""https://marisabrantley.github.io/sticky-notes-app/" target="_blank"><img src="https://user-images.githubusercontent.com/60168324/219544721-b7561260-a747-4a0a-bef8-6c357865633b.jpeg" width="400" alt="Super Sticky Notes App"></a>
+<p>
+<a href="https://github.com/marisabrantley/sticky-notes-app" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://marisabrantley.github.io/sticky-notes-app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>React, HTML, CSS</strong> - This interactive React app allows users to create sticky notes, as well as edit, search through, save, and delete them.</p>
+</div>
+</table>                                                                                     
 
