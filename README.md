@@ -24,7 +24,7 @@
       <td width="50%">
        <h2 align="center">Portfolio demo</h2>
        <div align="center">
-         <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222656885-4ea15d40-a999-4237-9062-ba21d7253f71.jpg" width="400" alt="Portfolio demo"></a>
+         <a href="https://ishuduwal.github.io/portfolio-demo/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222656885-4ea15d40-a999-4237-9062-ba21d7253f71.jpg" width="400" alt="Portfolio demo"></a>
         <p><b>Works for desktop only</b></p>
     </td>
   </tr>
