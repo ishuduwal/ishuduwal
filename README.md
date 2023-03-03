@@ -12,5 +12,5 @@
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
 <h2>Projects</h2>
 <br>
-<a href="https://ishuduwal.github.io/twitterclone/"><img src="![image](https://user-images.githubusercontent.com/115239975/222650624-f97ff9c6-51c5-4505-afab-08949c7c176e.png)"></a>
+<a href="https://ishuduwal.github.io/twitterclone/">![image](https://user-images.githubusercontent.com/115239975/222650624-f97ff9c6-51c5-4505-afab-08949c7c176e.png)</a>
 
