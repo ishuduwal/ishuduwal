@@ -10,7 +10,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30"</a> 
 <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" width="30"</a><br>
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
-<h1>Projects</h1>
+<h1>Projects:</h1>
 <br>
  <div align="center">
  <table>
@@ -22,9 +22,9 @@
         <p><b>Works for desktop only</b></p>
         </td>
       <td width="50%">
-       <h2 align="center">Twitter home clone</h2>
+       <h2 align="center">Portfolio demo</h2>
        <div align="center">
-         <a href="https://ishuduwal.github.io/twitterclone/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222655657-78ea36f7-a5af-4646-add3-25d4c1f6df82.jpg" width="400" alt="Twitter home clone"></a>
+         <a href="https://ishuduwal.github.io/portfolio-demo/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222656885-4ea15d40-a999-4237-9062-ba21d7253f71.jpg" width="400" alt="Twitter home clone"></a>
     </td>
  </table>
                                                                                    
