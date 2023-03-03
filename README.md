@@ -10,4 +10,13 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30"</a> 
 <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" width="30"</a><br>
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
-
+<h2>Projects</h2>
+<br>
+<table>
+  <tr>
+    <td>
+      <p><a href="https://ishuduwal.github.io/twitterclone/#"><img src="![image](https://user-images.githubusercontent.com/115239975/222620808-eeb5a0a2-2992-4996-a201-e05623b63ee6.png)>"</a></p>
+    </td>
+    <td>
+    </td>
+  </tr>
