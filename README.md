@@ -38,7 +38,7 @@
       <td width="50%">
        <h2 align="center">Instagram home clone</h2>
        <div align="center">
-         <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222658246-536e532e-2b0d-4c17-a0ae-ad0caf4a1b21.jpg" width="400" alt="Instagram home clone"></a>
+         <a href="https://ishuduwal.github.io/instagram-homeclone/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222658246-536e532e-2b0d-4c17-a0ae-ad0caf4a1b21.jpg" width="400" alt="Instagram home clone"></a>
         <p><b>Works for desktop only</b></p>
     </td>
   </tr>
