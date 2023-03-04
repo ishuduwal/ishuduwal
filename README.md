@@ -50,8 +50,6 @@
          <a href="https://ishuduwal.github.io/office/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222658389-177300ee-82b4-4f80-bf92-9a1d21790daf.jpg" width="400" alt="Twitter home clone"></a>
         <p><b>Works on desktop only</b></p>
         </td>
-   </tr>
-  <tr>
    <td width="50%">
        <h2 align="center">Change bg color</h2>
        <div align="center">
