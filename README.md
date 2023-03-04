@@ -51,6 +51,14 @@
         <p><b>Works on desktop only</b></p>
         </td>
    </tr>
+  <tr>
+   <td width="50%">
+       <h2 align="center">Change bg color</h2>
+       <div align="center">
+         <a href="https://ishuduwal.github.io/change-bg-color/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222901496-56a98ae4-7e21-455f-829e-59f765e54094.png" width="400" alt="Change bg color"></a>
+        <p><b>Works on desktop only</b></p>
+        </td>
+   </tr>
  </table>
                                                                                    
 
