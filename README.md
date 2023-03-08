@@ -10,7 +10,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30"</a> 
 <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" width="30"</a><br>
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
-<h1>Projects:</h1>
+<h1>Portfolio:</h1>
 <br>
  <div align="center">
  <table>
@@ -20,12 +20,6 @@
        <div align="center">
          <a href="https://ishuduwal.github.io/portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/223638638-d941f236-6d63-4155-ac41-dccff4ddc3d0.png" width="400" alt="ishuduwal portfolio"></a>
         <p><b>Works on desktop only</b></p>
-        </td>
-   <td width="50%">
-       <h2 align="center">Change bg color</h2>
-       <div align="center">
-         <a href="https://ishuduwal.github.io/change-bg-color/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/222901496-56a98ae4-7e21-455f-829e-59f765e54094.png" width="400" alt="Change bg color"></a>
-        <p><b>Works properly </b></p>
         </td>
    </tr>
  </table>
