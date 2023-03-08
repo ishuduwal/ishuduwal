@@ -18,7 +18,7 @@
      <td width="50%">
        <h2 align="center">Twitter home clone</h2>
        <div align="center">
-         <a href="https://ishuduwal.github.io/portfolio/" target="_blank"><img src="![image](https://user-images.githubusercontent.com/115239975/223638638-d941f236-6d63-4155-ac41-dccff4ddc3d0.png)" width="400" alt="Twitter home clone"></a>
+         <a href="https://ishuduwal.github.io/portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/223638638-d941f236-6d63-4155-ac41-dccff4ddc3d0.png" width="400" alt="Twitter home clone"></a>
         <p><b>Works on desktop only</b></p>
         </td>
    <td width="50%">
