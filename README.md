@@ -19,7 +19,7 @@
        <h2 align="center"> portfolio</h2>
        <div align="center">
          <a href="https://ishuduwal.github.io/temporary-portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/225058133-c872080b-f7c2-4391-82c0-6f0b52df6906.png" width="400" alt="ishuduwal portfolio"></a>
-        <p><b>Works on desktop only</b></p>
+        <p><b>Responsive</b></p>
         </td>
    </tr>
  </table>
