@@ -10,18 +10,6 @@
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30" width="30"</a> 
 <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="30" width="30"</a><br>
 <p><img src="https://github-readme-stats-8qyt-git-master-ishuduwal.vercel.app/api?username=ishuduwal"></p>
-<h1>Portfolio:</h1>
-<br>
- <div align="center">
- <table>
-   <tr>
-     <td width="50%">
-       <h2 align="center"> portfolio</h2>
-       <div align="center">
-         <a href="https://ishuduwal.github.io/personal-website/" target="_blank"><img src="https://user-images.githubusercontent.com/115239975/229297967-1d4a15b7-ebfc-4624-afab-ba770ffafa0d.png" width="400" alt="ishuduwal portfolio"></a>
-        <p><b>Responsive</b></p>
-        </td>
-   </tr>
- </table>
+
                                                                                    
 
