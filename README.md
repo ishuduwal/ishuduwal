@@ -1,5 +1,4 @@
 <h2 >Hi there 👋</h2>
-# 💫 About Me:<br>
 I am Ishu Duwal<br>I am good in creating frontend designs<br>I am learning Javascript, Php, React and Tailwind<br>
 <p>https://youtu.be/NkQrKxTFARM</p>
 
