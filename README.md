@@ -1,6 +1,6 @@
 ![download](https://github.com/ishuduwal/ishuduwal/assets/115239975/deaf91c7-66b5-4032-97ab-c3c715703612)
 <h2 >Hi there 👋</h2>
-I am Ishu Duwal<br>I am good in creating frontend designs<br>I am learning Javascript, Php, React and Tailwind<br>
+I am Ishu Duwal<br>I am good in creating frontend designs<br>learning Javascript, Php, React and Tailwind<br>
 <p>https://youtu.be/NkQrKxTFARM</p>
 
 
