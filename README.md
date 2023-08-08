@@ -1,6 +1,7 @@
 ![download](https://github.com/ishuduwal/ishuduwal/assets/115239975/deaf91c7-66b5-4032-97ab-c3c715703612)
-<h2 >Hi there 👋</h2>
-I am Ishu Duwal<br>I am good in creating frontend designs<br>MERN stack<br>
+<h1 align="center">Hi there👋, I'm Ishu Duwal</h1>
+<h3 align="center">Web Development</h3>
+🌱 I’m currently learning MERN
 <p>https://youtu.be/NkQrKxTFARM</p>
 
 
